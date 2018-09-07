@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="REST002" verbose="10" preserve-order="true">
+    <test name="postImageTest">
+        <classes>
+            <class name="REST002.postImageTest" />
+        </classes>
+    </test>
+</suite>

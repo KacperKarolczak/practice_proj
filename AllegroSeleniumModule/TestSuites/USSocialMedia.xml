@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="USSocialMedia" verbose="10" preserve-order="true">
+    <test name="facebookConnectionTest">
+        <classes>
+            <class name="USSocialMedia.facebookConnectionTest" />
+        </classes>
+    </test>
+</suite>

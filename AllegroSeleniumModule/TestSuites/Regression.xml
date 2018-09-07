@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Test">
+    <suite-files>
+        <suite-file path="USCart.xml" />
+        <suite-file path="USFiltring.xml" />
+        <suite-file path="USSocialMedia.xml" />
+        <suite-file path="USSorting.xml" />
+    </suite-files>
+</suite>

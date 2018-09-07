@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="REST001" verbose="10" preserve-order="true">
+    <test name="getAccountBaseTest">
+        <classes>
+            <class name="REST001.getAccountBaseTest" />
+        </classes>
+    </test>
+</suite>

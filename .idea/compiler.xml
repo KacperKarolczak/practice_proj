@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AllegroSeleniumModule" />
+        <module name="CORE" />
+        <module name="ImgurRestModule" />
+        <module name="RestModule" />
+        <module name="SeleniumModule" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AllegroSeleniumModule" target="1.8" />
+      <module name="CORE" target="1.8" />
+      <module name="FriscoSeleniumModule" target="1.8" />
+      <module name="ImgurRestModule" target="1.8" />
+      <module name="practice_proj" target="1.8" />
+      <module name="RestModule" target="1.8" />
+      <module name="SeleniumModule" target="1.8" />
+      <module name="SpotifyRestModule" target="1.8" />
+      <module name="ZalandoSeleniumModule" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

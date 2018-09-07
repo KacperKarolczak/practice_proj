@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="REST004" verbose="10" preserve-order="true">
+    <test name="DeleteFromGallery">
+        <classes>
+            <class name="REST004.deleteFromGalleryTest" />
+        </classes>
+    </test>
+</suite>

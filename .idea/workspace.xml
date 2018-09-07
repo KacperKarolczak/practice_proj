@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c35a8bb-57c7-4499-bf55-d535de609366" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/CategoriesBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/CategoriesBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/ChoosedProductPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/DzieckoCategoryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/DzieckoCategoryPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllegroSeleniumModule/src/test/java/FiltringUS/betweenValuesFiltringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllegroSeleniumModule/src/test/java/FiltringUS/betweenValuesFiltringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllegroSeleniumModule/src/test/java/SortingUS/sortingFuncionalityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AllegroSeleniumModule/src/test/java/SortingUS/sortingFuncionalityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AllegroSeleniumModule/src/test/java/US01/TC01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/CORE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/CORE.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/main/java/reporting/ExtentManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/main/java/reporting/ExtentTestNGReportBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/main/java/utils/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/src/main/java/utils/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CORE/src/main/java/utils/BaseCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/CORE/src/main/java/utils/BaseCore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriscoRestModule/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriscoRestModule/src/main/java/friscoClient/FriscoClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriscoRestModule/src/main/java/friscoManager/ConfigToken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriscoRestModule/src/main/java/friscoManager/FriscoManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriscoRestModule/src/main/resources/accountData.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriscoRestModule/src/main/resources/log4J.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriscoRestModule/src/test/java/firsttest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriscoSeleniumModule/src/test/java/LoginUS/invalidLoginTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FriscoSeleniumModule/src/test/java/LoginUS/validLoginTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpotifyPractise.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpotifyRestModule/SpotifyRestModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZalandoSeleniumModule/ZalandoSeleniumModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ZalandoSeleniumModule/target/" />
+    <ignored path="$PROJECT_DIR$/RestModule/target/" />
+    <ignored path="$PROJECT_DIR$/SpotifyRestModule/target/" />
+    <ignored path="$PROJECT_DIR$/CORE/target/" />
+    <ignored path="$PROJECT_DIR$/AllegroSeleniumModule/target/" />
+    <ignored path="$PROJECT_DIR$/FriscoRestModule/target/" />
+    <ignored path="$PROJECT_DIR$/FriscoSeleniumModule/target/" />
+    <ignored path="$PROJECT_DIR$/ImgurRestModule/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2028387560">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="15" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="15" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-217344582">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="41" />
+          <entry key="java" value="480" />
+          <entry key="json" value="57" />
+          <entry key="xml" value="408" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="480" />
+          <entry key="JSON" value="57" />
+          <entry key="PLAIN_TEXT" value="41" />
+          <entry key="XML" value="408" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="48" />
+          <entry key="json" value="6" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="48" />
+          <entry key="JSON" value="6" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.delete.local" value="1" />
+          <entry key="git.branch.delete.remote" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/test/java/REST001/getAccountBaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/main/java/ImgurClient/ImgurClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-105">
+              <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/main/resources/accountData.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="54" selection-start-column="54" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/main/java/ImgurManager/ImgurManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="38" column="56" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/main/java/ImgurManager/ConfigToken.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-132">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ImgurRestModule/TestSuites/REST001.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/test/java/REST003/getImageIDsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/test/java/REST004/deleteFromGalleryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ImgurRestModule/TestSuites/REST002.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/test/java/REST002/postImageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/utils/BaseTest.java" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/ProductPage.java" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/OdzieżNIemowlęcaPage.java" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/CartPage.java" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/src/test/java/BasketUS/addingToBasketProperCaseTest.java" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/ChoosedProductPage.java" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/SocialMediaPage.java" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/FacebookPage.java" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/src/test/java/SocialMediaUS/facebookConnectionTest.java" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/FiltringOptionsPage.java" />
+        <option value="$PROJECT_DIR$/FriscoRestModule/src/main/resources/accountData.json" />
+        <option value="$PROJECT_DIR$/FriscoRestModule/src/main/java/friscoClient/ClientCredentials.java" />
+        <option value="$PROJECT_DIR$/FriscoRestModule/src/main/java/friscoClient/AccessToken.java" />
+        <option value="$PROJECT_DIR$/FriscoRestModule/src/main/java/friscoManager/ConfigToken.java" />
+        <option value="$PROJECT_DIR$/FriscoRestModule/src/main/java/friscoClient/FriscoClient.java" />
+        <option value="$PROJECT_DIR$/FriscoRestModule/src/main/java/friscoManager/FriscoManager.java" />
+        <option value="$PROJECT_DIR$/FriscoRestModule/src/test/java/firsttest.java" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/DzieckoCategoryPage.java" />
+        <option value="$PROJECT_DIR$/CORE/src/main/java/utils/BaseCore.java" />
+        <option value="$PROJECT_DIR$/CORE/src/main/java/utils/Action.java" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/src/test/java/FiltringUS/betweenValuesFiltringTest.java" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/src/test/java/SortingUS/sortingFuncionalityTest.java" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/TestSuites/USCart.xml" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/TestSuites/USFiltring.xml" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/TestSuites/USSocialMedia.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ImgurRestModule/pom.xml" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/pom.xml" />
+        <option value="$PROJECT_DIR$/CORE/pom.xml" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/MainPage.java" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/MlekoPage.java" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/CategoriesBar.java" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/ChoosedCategoryPage.java" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/OdzieżNiemowlęcaPage.java" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/TestSuites/Regression.xml" />
+        <option value="$PROJECT_DIR$/AllegroSeleniumModule/TestSuites/USSorting.xml" />
+        <option value="$PROJECT_DIR$/ImgurRestModule/src/test/java/REST002/postImageTest.java" />
+        <option value="$PROJECT_DIR$/ImgurRestModule/src/test/java/REST003/GetImageIDsTest.java" />
+        <option value="$PROJECT_DIR$/ImgurRestModule/src/test/java/REST004/RemoveFromGalleryTest.java" />
+        <option value="$PROJECT_DIR$/ImgurRestModule/TestSuites/Regression.xml" />
+        <option value="$PROJECT_DIR$/ImgurRestModule/TestSuites/REST003.xml" />
+        <option value="$PROJECT_DIR$/ImgurRestModule/TestSuites/REST004.xml" />
+        <option value="$PROJECT_DIR$/ImgurRestModule/src/main/resources/imgurResp.json" />
+        <option value="$PROJECT_DIR$/ImgurRestModule/src/main/java/ImgurManager/ConfigToken.java" />
+        <option value="$PROJECT_DIR$/ImgurRestModule/src/test/java/REST001/getAccountBaseTest.java" />
+        <option value="$PROJECT_DIR$/ImgurRestModule/src/main/java/ImgurClient/ImgurClient.java" />
+        <option value="$PROJECT_DIR$/ImgurRestModule/src/main/resources/accountData.json" />
+        <option value="$PROJECT_DIR$/ImgurRestModule/src/main/java/ImgurManager/ImgurManager.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ImgurRestModule" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="practice_proj" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="practice_proj" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="55" />
+    <option name="y" value="60" />
+    <option name="width" value="1680" />
+    <option name="height" value="1010" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="AllegroSeleniumModule" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="AllegroSeleniumModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="AllegroSeleniumModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="AllegroSeleniumModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="AllegroSeleniumModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pageObjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="AllegroSeleniumModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="AllegroSeleniumModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="AllegroSeleniumModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="AllegroSeleniumModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="USCart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="AllegroSeleniumModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="USFiltring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="AllegroSeleniumModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="USSocialMedia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="AllegroSeleniumModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="USSorting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="AllegroSeleniumModule" type="462c0819:PsiDirectoryNode" />
+              <item name="TestSuites" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="CORE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="ImgurRestModule" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="ImgurRestModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="ImgurRestModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="ImgurRestModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="ImgurRestModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ImgurClient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="ImgurRestModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ImgurManager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="ImgurRestModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="ImgurRestModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="ImgurRestModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="ImgurRestModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="REST001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="ImgurRestModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="REST002" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="ImgurRestModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="REST003" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="ImgurRestModule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="REST004" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="ImgurRestModule" type="462c0819:PsiDirectoryNode" />
+              <item name="test-output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="ImgurRestModule" type="462c0819:PsiDirectoryNode" />
+              <item name="test-output" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice_proj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice_proj" type="462c0819:PsiDirectoryNode" />
+              <item name="ImgurRestModule" type="462c0819:PsiDirectoryNode" />
+              <item name="TestSuites" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536345181784" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ImgurManager" />
+      <recent name="REST004" />
+      <recent name="REST003" />
+      <recent name="REST002" />
+      <recent name="REST001" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Testy\testy_lenovo\practice_proj\ImgurRestModule\src\main\resources" />
+      <recent name="C:\Testy\testy_lenovo\practice_proj\ImgurRestModule\TestSuites" />
+      <recent name="C:\Testy\testy_lenovo\practice_proj\ImgurRestModule\src\main\java" />
+      <recent name="C:\Testy\testy_lenovo\practice_proj\AllegroSeleniumModule\TestSuites" />
+      <recent name="C:\Users\Kacper\Documents\SpotifyPractice\spotifypractise\FriscoRestModule\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.getAccountBaseTest.sendRequest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="ImgurRestModule" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="ImgurRestModule" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Testy/testy_lenovo/practice_proj/AllegroSeleniumModule/TestSuites/Regression.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AllegroSeleniumModule" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/AllegroSeleniumModule/TestSuites/Regression.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Testy/testy_lenovo/practice_proj/ImgurRestModule/TestSuites/Regression.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ImgurRestModule" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/ImgurRestModule/TestSuites/Regression.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="facebookConnectionTest.runTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AllegroSeleniumModule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="USSocialMedia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SocialMediaUS" />
+      <option name="MAIN_CLASS_NAME" value="USSocialMedia.facebookConnectionTest" />
+      <option name="METHOD_NAME" value="runTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getAccountBaseTest.sendRequest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ImgurRestModule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="REST001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="REST001" />
+      <option name="MAIN_CLASS_NAME" value="REST001.getAccountBaseTest" />
+      <option name="METHOD_NAME" value="sendRequest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sortingFuncionalityTest.runTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AllegroSeleniumModule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="USSorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SortingUS" />
+      <option name="MAIN_CLASS_NAME" value="USSorting.sortingFuncionalityTest" />
+      <option name="METHOD_NAME" value="runTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.facebookConnectionTest.runTest" />
+      <item itemvalue="TestNG.sortingFuncionalityTest.runTest" />
+      <item itemvalue="TestNG.C:/Testy/testy_lenovo/practice_proj/AllegroSeleniumModule/TestSuites/Regression.xml" />
+      <item itemvalue="TestNG.getAccountBaseTest.sendRequest" />
+      <item itemvalue="TestNG.C:/Testy/testy_lenovo/practice_proj/ImgurRestModule/TestSuites/Regression.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.getAccountBaseTest.sendRequest" />
+        <item itemvalue="TestNG.C:/Testy/testy_lenovo/practice_proj/ImgurRestModule/TestSuites/Regression.xml" />
+        <item itemvalue="TestNG.C:/Testy/testy_lenovo/practice_proj/AllegroSeleniumModule/TestSuites/Regression.xml" />
+        <item itemvalue="TestNG.facebookConnectionTest.runTest" />
+        <item itemvalue="TestNG.sortingFuncionalityTest.runTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c35a8bb-57c7-4499-bf55-d535de609366" name="Default" comment="" />
+      <created>1533407455883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533407455883</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Chuj Ci do tego co zrobilem">
+      <created>1533751403215</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533751403215</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Chuj Ci do tego co zrobilem">
+      <created>1533835592663</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1533835592664</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Chuj Ci do tego co zrobilem">
+      <created>1533842799880</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1533842799880</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Chuj Ci do tego co zrobilem">
+      <created>1534433419403</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1534433419403</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="getAccountBaseTest_sendRequest - 2018.09.07 at 20h 03m 00s.xml">
+      <configuration name="getAccountBaseTest.sendRequest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="getAccountBaseTest_sendRequest - 2018.09.07 at 20h 03m 33s.xml">
+      <configuration name="getAccountBaseTest.sendRequest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="getAccountBaseTest_sendRequest - 2018.09.07 at 20h 09m 24s.xml">
+      <configuration name="getAccountBaseTest.sendRequest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="getAccountBaseTest_sendRequest - 2018.09.07 at 20h 20m 17s.xml">
+      <configuration name="getAccountBaseTest.sendRequest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="getAccountBaseTest_sendRequest - 2018.09.07 at 20h 21m 29s.xml">
+      <configuration name="getAccountBaseTest.sendRequest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="getAccountBaseTest_sendRequest - 2018.09.07 at 20h 26m 54s.xml">
+      <configuration name="getAccountBaseTest.sendRequest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="getAccountBaseTest_sendRequest - 2018.09.07 at 20h 27m 27s.xml">
+      <configuration name="getAccountBaseTest.sendRequest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="getAccountBaseTest_sendRequest - 2018.09.07 at 20h 29m 39s.xml">
+      <configuration name="getAccountBaseTest.sendRequest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="getAccountBaseTest_sendRequest - 2018.09.07 at 20h 30m 18s.xml">
+      <configuration name="getAccountBaseTest.sendRequest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="getAccountBaseTest_sendRequest - 2018.09.07 at 20h 30m 44s.xml">
+      <configuration name="getAccountBaseTest.sendRequest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.252349" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40084985" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39905363" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="TMC Test Results" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" weight="0.1713881" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="TMC Project List" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.0" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24899329" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40084985" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39905363" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="TMC Test Results" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" weight="0.1713881" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="TMC Project List" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.13087249" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Chuj Ci do tego co zrobilem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chuj Ci do tego co zrobilem" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AllegroSeleniumModule/src/test/java/USFiltring/betweenValuesFiltringTest.java</url>
+          <line>17</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AllegroSeleniumModule/src/test/java/USCart/addingToBasketProperCaseTest.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/FriscoRestModule/src/test/java/firsttest.java</url>
+          <line>20</line>
+          <properties class="firsttest" method="sendRequest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/ImgurRestModule/src/test/java/REST001/getAccountBaseTest.java</url>
+          <line>29</line>
+          <properties class="REST001.getAccountBaseTest" method="sendRequest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/FriscoRestModule/src/main/java/friscoClient/FriscoClient.java</url>
+          <line>48</line>
+          <properties field="clientSecret" class="friscoClient.FriscoClient" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/main/java/responses/GetAlbumImagesResponse.java" />
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/main/java/responses/PostImageResponse.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/main/java/responses/GetImageCountResponse.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/main/java/responses/CommentCreationResponse.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/main/java/responses/GetAlbumIDsResponse.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/main/java/responses/postFavoriteAnImage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/main/java/responses/PostAlbumCreationResponse.java" />
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/test/java/firsttest.java" />
+    <entry file="file://$PROJECT_DIR$/CORE/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/main/java/responses/GetGallerySearchResponse.java" />
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/main/java/responses/GetImageIDsResponse.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/main/java/responses/RefreshToken.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/main/resources/log4J.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllegroSeleniumModule/src/test/java/USCart/addingToBasketProperCaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="16" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllegroSeleniumModule/src/test/java/USFiltring/betweenValuesFiltringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="80" selection-start-line="20" selection-start-column="80" selection-end-line="20" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllegroSeleniumModule/src/test/java/USSocialMedia/facebookConnectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/LoginPage.java" />
+    <entry file="file://$PROJECT_DIR$/AllegroSeleniumModule/src/test/java/USSorting/sortingFuncionalityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/MlekoPage.java" />
+    <entry file="file://$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/AfterLoginHomeBar.java" />
+    <entry file="file://$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/BottomBar.java" />
+    <entry file="file://$PROJECT_DIR$/AllegroSeleniumModule/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/CartPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/CategoriesBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/ChoosedCategoryPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/FiltringOptionsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/OdzieżNiemowlęcaPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/RodoPage.java" />
+    <entry file="file://$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/ProductPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllegroSeleniumModule/src/main/java/pageObjects/SocialMediaPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllegroSeleniumModule/TestSuites/USSocialMedia.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="61" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllegroSeleniumModule/TestSuites/USSorting.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.13.1/testng-6.13.1.jar!/org/testng/TestClass.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+          <folding>
+            <element signature="e#2569#2570#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/TestSuites/REST004.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/TestSuites/REST003.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/main/resources/imgurResp.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="230" selection-start-column="230" selection-end-column="230" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllegroSeleniumModule/TestSuites/Regression.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/TestSuites/Regression.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/TestSuites/REST001.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/test/java/REST003/getImageIDsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/test/java/REST004/deleteFromGalleryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/TestSuites/REST002.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/test/java/REST002/postImageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/main/java/ImgurManager/ConfigToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/main/java/ImgurClient/ImgurClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/main/java/ImgurManager/ImgurManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="38" column="56" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/test/java/REST001/getAccountBaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImgurRestModule/src/main/resources/accountData.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="54" selection-start-column="54" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

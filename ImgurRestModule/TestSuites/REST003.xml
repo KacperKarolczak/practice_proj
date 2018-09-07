@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="REST003" verbose="10" preserve-order="true">
+    <test name="GetImageIDsTest">
+        <classes>
+            <class name="REST003.getImageIDsTest" />
+        </classes>
+    </test>
+</suite>

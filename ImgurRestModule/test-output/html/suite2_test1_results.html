@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+<head>
+  <title>Test Results Report - DeleteFromGallery</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="description" content="TestNG unit test results." />
+  <link href="reportng.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="reportng.js"></script>
+</head>
+<body>
+<h1>DeleteFromGallery</h1>
+<p>
+  Test duration: 33,852s
+</p>
+
+
+
+
+
+  <table class="resultsTable">
+    <tr><th colspan="3" class="header passed">Passed Tests</th></tr>
+          <tr>
+        <td colspan="3" class="group">REST004.deleteFromGalleryTest</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  sendRequest
+      </td>
+  <td class="duration">
+    33,849s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        Request: https://api.imgur.com/3/account/KacperrKK/images/count<br />
+                                Number of pictures before adding a new photo: 59<br />
+                                Request: https://api.imgur.com/3/image<br />
+                                New Image ID: hqyIpqy<br />
+                                Request: https://api.imgur.com/3/account/KacperrKK/images/count<br />
+                                Number of pictures after adding a new photo: 60<br />
+                                Request: https://api.imgur.com/3/image/hqyIpqy<br />
+                                Response after removing an image from the gallery: <br />
+                                Response: {<br/>
+&nbsp; &quot;data&quot;: true,<br/>
+&nbsp; &quot;success&quot;: true,<br/>
+&nbsp; &quot;status&quot;: 200<br/>
+}<br />
+                                Request: https://api.imgur.com/3/account/KacperrKK/images/count<br />
+                                Number of pictures in the gallery after removing a photo: 59<br />
+                                Action successfully completed. Number of photos before action: 59. Numbers of photos after action: 59<br />
+                  </div>
+    
+
+      </td>
+</tr>
+      </table>
+  
+</body>
+</html>

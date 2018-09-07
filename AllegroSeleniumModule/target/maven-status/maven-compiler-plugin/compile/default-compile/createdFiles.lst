@@ -1,0 +1,16 @@
+pageObjects\AfterLoginHomeBar.class
+pageObjects\FiltringOptionsPage.class
+utils\BaseTest.class
+pageObjects\CategoriesBar.class
+pageObjects\SocialMediaPage.class
+pageObjects\ProductPage.class
+pageObjects\MlekoPage.class
+pageObjects\OdzieżNIemowlęcaPage.class
+pageObjects\LoginPage.class
+pageObjects\ChoosedCategoryPage.class
+pageObjects\FacebookPage.class
+pageObjects\BottomBar.class
+pageObjects\CartPage.class
+pageObjects\DzieckoCategoryPage.class
+pageObjects\RodoPage.class
+pageObjects\MainPage.class
