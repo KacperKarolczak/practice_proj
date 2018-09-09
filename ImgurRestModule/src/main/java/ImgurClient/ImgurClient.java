@@ -83,14 +83,17 @@ public class ImgurClient {
         clientSecret = manager.getAccountData("clientSecret");
         refreshToken = manager.getAccountData("refreshToken");
 
-        HttpResponse postRequest = Request.Post("https://api.imgur.com//oauth2/token").bodyForm(
-                Form.form().add("grant_type", "refresh_token").
-                        add("client_id", clientId).
-                        add("client_secret", clientSecret).
-                        add("refresh_token", refreshToken).build()).execute().returnResponse();
-
-        System.out.println("postRequest " + postRequest);
-        return postRequest;
+        postRequest = new HttpPost("https://api.imgur.com/oauth2/token");
+        postRequest.addHeader("content-type","application/json");
+        postRequest.addHeader("cookie", accessToken);
+        json = new JSONObject();
+        json.put("refresh_token", refreshToken);
+        json.put("client_id", clientId);
+        json.put("client_secret", clientSecret);
+        json.put("grant_type", "refresh_token");
+        postRequest.setEntity(new StringEntity(json.toString()));
+        manager.logRequest(postRequest, "POST");
+        return client.execute(postRequest);
     }
     public HttpResponse postImage(String imageBase64,String type,String title) throws IOException, ParseException {
 
