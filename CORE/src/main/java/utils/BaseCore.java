@@ -21,7 +21,6 @@ import java.lang.reflect.Method;
 @Listeners({org.uncommons.reportng.HTMLReporter.class})
 public class BaseCore {
 
-    protected ExtentTest reporter;
     protected WebDriver driver;
     private WebDriverWait wait;
     protected Action action;

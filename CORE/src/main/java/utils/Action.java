@@ -40,18 +40,6 @@ public class Action {
         Reporter.log("Element '" + elementName + "' was successfully clicked<br>");
     }
 
-    public void jsClick(WebElement element, String elementName){
-        try {
-            driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-            ((JavascriptExecutor) driver).executeScript("arguments[0].click();", element);
-        }catch (NullPointerException e) {
-            Assert.assertFalse(false,"NULL POINTER EXCEPTION - CHECK TEST @Page ANNOTATION");
-        }catch(Exception e){
-            Assert.assertTrue(false,"Element '" + elementName + "' is not clickable");
-            return;
-        }
-        Reporter.log("Element '" + elementName + "' was successfully clicked by JavaScript");
-    }
 
     public void type(WebElement element, String text, String elementName){
         try {
@@ -80,77 +68,6 @@ public class Action {
         }
         Reporter.log("Element '" + elementName + "' was successfully displayed<br>");
     }
-    public void waitForAllElements(List<WebElement> elementList, String name){
-        for (int i = 0; i < elementList.size(); i++){
-            waitForElement(elementList.get(i), name + " no " + (i+1));
-        }
-    }
-
-    public void waitForDropDown(WebElement element, String elementName){
-        try{
-            wait.until(ExpectedConditions.not(ExpectedConditions.stalenessOf(element)));
-        }catch (NullPointerException e) {
-            Assert.assertFalse(false,"NULL POINTER EXCEPTION - CHECK TEST @Page ANNOTATION");
-        }catch(Exception e){
-            Assert.assertTrue(false,"element " + elementName + " is not visible");
-            return;
-        }
-        Reporter.log("Element '" + elementName + "' was successfully displayed");
-    }
-
-    public void waitAndClickCheckbox(WebElement element, String elementName){
-        try{
-            wait.until(ExpectedConditions.not(ExpectedConditions.stalenessOf(element)));
-            element.click();
-        }catch (NullPointerException e) {
-            Assert.assertFalse(false,"NULL POINTER EXCEPTION - CHECK TEST @Page ANNOTATION");
-        }catch(Exception e){
-            Assert.assertTrue(false,"element " + elementName + " is not visible");
-            return;
-        }
-        Reporter.log("Element '" + elementName + "' was successfully displayed and clicked<br>");
-    }
-
-    public void pressKey(WebElement element,String elementName,Keys key){
-        try{
-            wait.until(ExpectedConditions.elementToBeClickable(element));
-            element.sendKeys(key);
-        }catch (NullPointerException e) {
-            Assert.assertFalse(false,"NULL POINTER EXCEPTION - CHECK TEST @Page ANNOTATION");
-        }
-        catch(Exception e){
-            Assert.assertTrue(false,"Element " + elementName + " is not available");
-            return;
-        }
-        Reporter.log("Key was successfully pressed and sent into element '" + elementName + "'<br>");
-    }
-
-    public void moveToElement(WebElement element){
-        try {
-            wait.until(ExpectedConditions.visibilityOf(element));
-            Actions action = new Actions(driver);
-            action.moveToElement(element).perform();
-        }catch (NullPointerException e) {
-            Assert.assertFalse(false,"NULL POINTER EXCEPTION - CHECK TEST @Page ANNOTATION");
-        }catch (Exception e){
-            Assert.assertTrue(false);
-            return;
-        }
-        Reporter.log("Page was successfully move to element '" + element + "' on page<br>");
-    }
-
-    public void compareTexts(WebElement element, String text, String name){
-        try {
-            wait.until(ExpectedConditions.textToBePresentInElement(element, text));
-        }catch (NullPointerException e){
-            Assert.assertFalse(false,"NULL POINTER EXCEPTION - CHECK TEST @Page ANNOTATION");
-        }catch (Exception e){
-            Assert.assertTrue(false, "TEXT OF " + name + " DO NOT MATCH");
-            return;
-        }
-        Reporter.log("Comparing text are the same<br>");
-    }
-
     public void changeTab(String elementName){
         try {
             List<String> openedTabs = new ArrayList<String>(driver.getWindowHandles());
