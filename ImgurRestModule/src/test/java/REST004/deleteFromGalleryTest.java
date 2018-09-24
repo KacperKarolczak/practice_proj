@@ -36,23 +36,28 @@ public class deleteFromGalleryTest extends ImgurClient {
         String imageBase64;
         imageBase64 = Base64.getEncoder().encodeToString(Files.readAllBytes(path));
         username = manager.getAccountData("username");
+
         httpResponse = getImageCount(username);
         response = EntityUtils.toString(httpResponse.getEntity());
         count = getCount(response);
         Reporter.log("Number of pictures before adding a new photo: " + count);
+
         httpResponse = postImage(imageBase64,type,title);
         response = EntityUtils.toString(httpResponse.getEntity());
         newImageID = getImageId(response);
         Reporter.log("New Image ID: " + newImageID);
+
         httpResponse = getImageCount(username);
         response = EntityUtils.toString(httpResponse.getEntity());
         count2 = getCount(response);
         Reporter.log("Number of pictures after adding a new photo: " + count2);
+
         httpResponse = deleteImageFromGallery(newImageID);
         response = EntityUtils.toString(httpResponse.getEntity());
         Reporter.log("Response after removing an image from the gallery: ");
         manager.logResponse(response);
         Assert.assertEquals(httpResponse.getStatusLine().getStatusCode(), 200);
+
         httpResponse = getImageCount(username);
         response = EntityUtils.toString(httpResponse.getEntity());
         count3 = getCount(response);
